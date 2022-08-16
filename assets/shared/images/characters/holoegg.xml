@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="holoegg.png"><SubTexture name="holoegg idle0000" x="0" y="0" width="372" height="653" frameX="-439" frameY="-18" frameWidth="1079" frameHeight="728" />
+<SubTexture name="holoegg idle0001" x="750" y="0" width="404" height="620" frameX="-413" frameY="-52" frameWidth="1079" frameHeight="728" />
+<SubTexture name="holoegg idle0002" x="372" y="0" width="378" height="637" frameX="-432" frameY="-35" frameWidth="1079" frameHeight="728" />
+<SubTexture name="holoegg idle0003" x="0" y="0" width="372" height="653" frameX="-439" frameY="-18" frameWidth="1079" frameHeight="728" />
+</TextureAtlas>

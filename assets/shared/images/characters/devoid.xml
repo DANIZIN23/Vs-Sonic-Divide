@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="devoid.png"><SubTexture name="devoid idle0000" x="1348" y="499" width="430" height="485" frameX="-444" frameY="-237" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid idle0001" x="880" y="1092" width="446" height="475" frameX="-449" frameY="-248" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid idle0002" x="1326" y="1092" width="440" height="471" frameX="-444" frameY="-252" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid idle0003" x="924" y="582" width="424" height="481" frameX="-446" frameY="-242" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid idle0004" x="1348" y="499" width="430" height="485" frameX="-444" frameY="-237" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid up0000" x="0" y="0" width="443" height="582" frameX="-429" frameY="-141" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid up0001" x="443" y="0" width="452" height="572" frameX="-424" frameY="-151" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid up0002" x="895" y="0" width="453" height="556" frameX="-420" frameY="-167" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid right0000" x="1826" y="0" width="458" height="471" frameX="-593" frameY="-239" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid right0001" x="0" y="1092" width="449" height="481" frameX="-590" frameY="-229" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid right0002" x="449" y="1092" width="431" height="476" frameX="-587" frameY="-234" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid left0000" x="1348" y="0" width="478" height="499" frameX="-345" frameY="-225" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid left0001" x="452" y="582" width="472" height="501" frameX="-354" frameY="-223" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid left0002" x="0" y="582" width="452" height="510" frameX="-382" frameY="-213" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid down0000" x="1011" y="1573" width="505" height="453" frameX="-534" frameY="-276" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid down0001" x="0" y="1573" width="498" height="469" frameX="-549" frameY="-260" frameWidth="1581" frameHeight="1247" />
+<SubTexture name="devoid down0002" x="498" y="1573" width="513" height="469" frameX="-532" frameY="-260" frameWidth="1581" frameHeight="1247" />
+</TextureAtlas>
