@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "devoid idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "devoid left"
+		},
+		{
+			"offsets": [
+				0,
+				-11
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "devoid right"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "devoid up"
+		},
+		{
+			"offsets": [
+				20,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "devoid down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/devoid",
+	"position": [
+		-400,
+		20
+	],
+	"healthicon": "void",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		0,
+		132
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
